@@ -11,7 +11,7 @@
     <string name="unexpected_error">錯誤：%s</string>
     <string name="file_not_found">找不到檔案</string>
     <string name="compositions_on_device_not_found">找不到裝置上的音樂</string>
-    <string name="compositions_and_folders_for_search_not_found">找不到符合的曲目與資料夾</string>
+    <string name="compositions_and_folders_for_search_not_found">找不到符合的曲目和資料夾</string>
     <string name="compositions_for_search_not_found">沒有符合的搜尋結果</string>
     <string name="foreground_channel_description">前景播放通知</string>
     <string name="previous_track">上一首</string>
@@ -69,13 +69,12 @@
     <string name="now_playing_template">現正播放：%1$s，開啟佇列。</string>
     <string name="play_all_in_folder">播放資料夾</string>
     <string name="delete_playlist">刪除播放清單</string>
-    <string name="storage_timeout_error_message">
-媒體儲存空間沒有回應。
+    <string name="storage_timeout_error_message">媒體儲存空間沒有回應。
         \n這個問題非常罕見。
-        \n您可試著重新啟動裝置。</string>
+        \n請試著重新啟動裝置。</string>
     <string name="select_all">Select all</string>
-    <string name="file_uri_extract_error">無法識別要傳送的「%s」原始位置。
-        \n檔案可能存放於專用資料夾。</string>
+    <string name="file_uri_extract_error">無法擷取要傳送的「%s」原始位置。
+        \n檔案可能存放於非共用資料夾。</string>
     <string name="loading_progress">正在載入…</string>
     <string name="alphabetical_order_desc_title">Z-A</string>
     <string name="add_date_order_desc_title">最後加入優先</string>
@@ -179,7 +178,7 @@
     <string name="equalizer">等化器</string>
     <string name="system_equalizer">系統等化器</string>
     <string name="no_equalizer">無</string>
-    <string name="external_equalizer_description">使用系統預設等化器
+    <string name="external_equalizer_description">使用裝置預設等化器
         \n某些應用程式可能不適用</string>
     <string name="external_equalizer_not_found">找不到外部等化器</string>
     <string name="open">開啟</string>
@@ -187,7 +186,7 @@
     <string name="change_cover">更換封面</string>
     <string name="pick_from_gallery">從圖片庫選擇</string>
     <string name="remove_cover">移除封面</string>
-    <string name="editor_timeout_error">標籤編輯器逾時，可能不支援這個格式</string>
+    <string name="editor_timeout_error">標籤編輯工具逾時，可能不支援這個格式</string>
     <string name="lyrics">歌詞</string>
     <string name="check_tags_error">檢查曲目標籤失敗：%s</string>
     <string name="changing_file_progress">正在變更檔案…</string>
@@ -199,7 +198,7 @@
     <string name="error_report_message">發生嚴重錯誤。
         \n應用程式不會自動回報，您可手動傳送附加紀錄的電子郵件。
         \n這將可協助修正錯誤。</string>
-    <string name="show_error_report_dialog_on_start">如果發生問題，下次啟動時顯示錯誤報告視窗</string>
+    <string name="show_error_report_dialog_on_start">發生問題的下次啟動時顯示回報視窗</string>
     <string name="do_not_show_confirm_delete_dialog">不顯示刪除確認視窗</string>
     <string name="app_equalizer">應用程式等化器</string>
     <string name="presets">設定檔</string>
@@ -236,7 +235,7 @@
     <string name="show_all_audio_files">顯示所有音訊檔案</string>
     <string name="enabled_media_players">嵌入媒體播放器</string>
     <string name="advanced_settings">進階</string>
-    <string name="media_players_setting_description">使用多個媒體元件播放音樂，可在此停用或變更優先級別。
+    <string name="media_players_setting_description">使用多個元件播放音樂，您可在此停用或變更優先級別。
 		\n必須重新啟動應用程式才能套用任何變更。</string>
     <string name="sound_balance">聲道平衡</string>
     <string name="sound_balance_state">左：%1$d%%、右：%2$d%%</string>
@@ -271,7 +270,7 @@
     <string name="permission_required">權限要求</string>
     <string name="open_app_settings">開啟應用程式設定</string>
     <string name="file_is_corrupted">檔案已損毀</string>
-    <string name="keep_notification_after_pause">避免暫停後自動關閉通知內播放器</string>
+    <string name="keep_notification_after_pause">避免暫停後自動關閉通知內的播放器</string>
     <string name="unknown_play_error">未知檔案播放錯誤</string>
     <string name="file_read_timeout">讀取檔案逾時</string>
     <string name="tag_reading_error">讀取標籤時發生錯誤：%s</string>
