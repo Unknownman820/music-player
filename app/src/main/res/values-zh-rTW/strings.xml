@@ -276,11 +276,11 @@
     <string name="tag_reading_error">讀取標籤時發生錯誤：%s</string>
     <string name="track_number">音軌編號</string>
     <string name="change_track_number">編輯音軌編號</string>
-    <string name="disc_number">光碟編號</string>
-    <string name="change_disc_number">編輯光碟編號</string>
+    <string name="disc_number">唱片編號</string>
+    <string name="change_disc_number">編輯唱片編號</string>
     <string name="comment">評論</string>
     <string name="change_comment">編輯評論</string>
-    <string name="disc_short">光碟 %d</string>
+    <string name="disc_short">唱片 %d</string>
     <string name="track_short">音軌 %d</string>
     <string name="with_delay">和 %.1fs 延遲</string>
     <string name="insert_to_playlist_beginning">將新曲目插入清單頂端</string>
